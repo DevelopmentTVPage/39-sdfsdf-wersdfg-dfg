@@ -12,6 +12,9 @@
             "carousel_dot_border_style": "double",
             "carousel_dot_border_width": "8",
             "carousel_dot_border_radius": "56%"
+        },
+        ".video-item": {
+            "video_item_color": "rgba(207, 98, 5, 1)"
         }
     }
 }
