@@ -15,6 +15,9 @@
         },
         ".video-item": {
             "video_item_color": "rgba(207, 98, 5, 1)"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_background_color": "rgba(221, 139, 0, 1)"
         }
     }
 }
