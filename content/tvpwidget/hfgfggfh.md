@@ -14,7 +14,8 @@
             "carousel_dot_border_radius": "56%"
         },
         ".video-item": {
-            "video_item_color": "rgba(207, 98, 5, 1)"
+            "video_item_color": "rgba(207, 98, 5, 1)",
+            "video_item_display_amount": "4"
         },
         ".carousel-arrow": {
             "carousel_arrow_background_color": "rgba(221, 139, 0, 1)",
