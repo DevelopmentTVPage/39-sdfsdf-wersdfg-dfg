@@ -15,7 +15,8 @@
         },
         ".video-item": {
             "video_item_color": "rgba(207, 98, 5, 1)",
-            "video_item_display_amount": "4"
+            "video_item_display_amount": "4",
+            "video_item_margin_bottom": "187"
         },
         ".carousel-arrow": {
             "carousel_arrow_background_color": "rgba(221, 139, 0, 1)",
