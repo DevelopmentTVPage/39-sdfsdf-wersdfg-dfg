@@ -7,6 +7,9 @@
     "css": {
         ".widget-title": {
             "widget_title_display": "none"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_display": "none"
         }
     }
 }
